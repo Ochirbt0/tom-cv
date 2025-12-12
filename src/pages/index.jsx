@@ -9,7 +9,7 @@ import { Footer2 } from "@/components/Footer2";
 
 const Home = () => {
   return (
-    <div className="  w-full m-auto">
+    <div className="w-full m-auto">
       <Header />
       <Main1 />
       <Main2 />
