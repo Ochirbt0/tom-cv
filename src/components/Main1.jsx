@@ -1,7 +1,7 @@
 export const Main1 = () => {
   return (
-    <div className="flex flex-col md:flex-row  md:w-full justify-between md:pr-20 md:pl-20 md:pt-24 md:pb-24">
-      <div className="flex flex-col pr-4 pl-4 md:pr-0 md:pl-0 gap-y-12 md:w-full">
+    <div className="flex flex-col md:flex-row justify-center md:pr-20 md:pl-20 md:pt-24 md:pb-24">
+      <div className="flex flex-col pr-4 pl-4 md:pr-0 md:pl-0 gap-y-12 w-[1000px]">
         <div className=" md:w-[600px] md:h-44 space-y-2 md:space-y-2 ">
           <div className="md:hidden flex justify-center items-center pt-16">
             <img src="/mobile turuu.png" alt="" className="h-[300px]" />

@@ -1,6 +1,6 @@
 export const Footer = () => {
   return (
-    <div className=" flex flex-col justify-center items-center space-y-12 w-[1440px] h-[560px]">
+    <div className=" flex flex-col justify-center items-center space-y-12  h-[560px]">
       <div className="flex space-y-6 flex-col items-center justify-between h-[72px]">
         <div className="flex items-center justify-center rounded-xl w-[115px] h-7 text-sm font-medium bg-gray-200">
           Get in touch

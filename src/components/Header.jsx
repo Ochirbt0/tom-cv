@@ -1,6 +1,6 @@
 export const Header = () => {
   return (
-    <div className="flex w-[375px] h[68px] p-4 fixed bg-white md:w-full justify-between md:pr-20 md:pl-20 md:pt-4 md:pb-4">
+    <div className="flex p-4 bg-white justify-between md:pr-20 md:pl-20 md:pt-4 md:pb-4">
       <div className="font-bold w-[76px] h-9 text-3xl">Turuu</div>
       <div className="md:hidden">
         <img src="mobilebutton.png" alt="" className="w-9 h-9" />

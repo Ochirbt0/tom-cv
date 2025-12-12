@@ -3,7 +3,7 @@ import { stack2 } from "@/constants/stack2";
 
 export const Main3 = () => {
   return (
-    <div className="flex flex-col pt-24 pr-20 pl-20 pb-24 gap-y-12">
+    <div className="flex flex-col items-center justify-center pt-24 pr-20 pl-20 pb-24 gap-y-12">
       <div className="flex flex-col justify-between items-center h-[72px]">
         <div className=" flex w-[75px] h-7 bg-gray-200 text-sm rounded-xl justify-center items-center">
           Skills
