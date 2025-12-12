@@ -12,12 +12,12 @@ const Home = () => {
     <div className="  w-full m-auto">
       <Header />
       <Main1 />
-      {/* <Main2 />
+      <Main2 />
       <Main3 />
       <Main4 />
       <Main5 />
       <Footer />
-      <Footer2 /> */}
+      <Footer2 />
     </div>
   );
 };
